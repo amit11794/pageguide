@@ -1,7 +1,7 @@
 pageguide.js
 ============
 
-An interactive, responsive, and smart guide for web page elements using jQuery and CSS3. Works great for dynamic pages and single-page apps as well as static pages. Check it out IRL at http://tracelytics.github.com/pageguide!
+An interactive, responsive, and smart guide for web page elements using jQuery and CSS3. Works great for dynamic pages and single-page apps as well as static pages. Check it out IRL at https://tracelytics.github.com/pageguide!
 
 [![Build Status](https://travis-ci.org/tracelytics/pageguide.png)](https://travis-ci.org/tracelytics/pageguide)
 
